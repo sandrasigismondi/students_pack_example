@@ -1,1 +1,3 @@
-# students_pack_example
+# Student package
+
+This is a package developed by students
